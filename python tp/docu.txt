@@ -1,0 +1,14 @@
+b act 6:
+defino una funcion recibiendo como argumento una cadena de texto o string, dentro de la funcion aplico lo que es "slicing", cuyo uso es poner entre arrays o corchetes la posicion inicial, final y los pasos a dar, de un string, lista, etc. Para terminar, imprimí por pantalla la función, invocando la cadena.
+
+act 7:
+defino una funcion recibiendo como argumento un string nuevamente, donde en su interior aplico estructura for y condicionales, junto con el slicing, para saber si la palabra es palindromo o no.
+
+act 8:
+defino una funcion donde voy a recibir como argumento dos listas y en su interior voy a comparar dichas listas para saber si comparten elemento o no, usando for anidados y condicionales, retornando true si se acertó o false en caso contrario.
+
+act 9:
+defino funcion recibiendo A y B como argumentos, dentro aplico la estructura For, para luego imprimir A cantidad de B que quiera.
+
+act 10:
+defino funcion recibiendo como parámetro una lista con números, se debe mostrar la cantidad de "*" de acuerdo a los numeros que estan dentro de la lista. Aplicando for anidados, conseguí el objetivo requerido.
